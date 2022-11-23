@@ -1,5 +1,8 @@
 # Pokemons
--[se utilizó vue router] (https://rodolfo-parada-poke.netlify.app/)
+-[se utilizó vue router] ('https://rodolfo-parada-poke-vue-router3.netlify.app/')
+se utilizó pinia , se incorporo persistencia.
+
+
 ## Project Setup
 
 ```sh
